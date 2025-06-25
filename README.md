@@ -21,8 +21,6 @@ Built with PyQt5. No command-line knowledge required!
 
 pip install pipwiz
 
-text
-
 ---
 
 ## Usage
@@ -31,13 +29,9 @@ Just run:
 
 pipwiz
 
-text
-
 Or, if you installed from source:
 
 python -m pipwiz.main
-
-text
 
 ---
 
@@ -65,8 +59,6 @@ If you try to uninstall pipwiz using the wizard, you’ll get a confirmation dia
 You can always reinstall it with:
 
 pip install pipwiz
-
-text
 
 ---
 
