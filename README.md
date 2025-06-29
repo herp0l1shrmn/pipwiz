@@ -11,7 +11,7 @@ Built with PyQt5. No command-line knowledge required!
 The requirements needed to run this file are:
 
 1. Python 3.7 or newer (not recommended to use before 3.7)
-2. PyQt5
+2. PyQt5 (the application is highly dependent on this library to work, there's also a failsafe for when PyQt5 is not installed)
 
 ---
 
