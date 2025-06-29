@@ -4,7 +4,7 @@ A beginner-friendly, cross-platform GUI wizard for installing, upgrading, and un
 There's also searching in this application, where you can search for packages using a modified version of PyPI.
 Built with PyQt5. No command-line knowledge required!
 
---
+---
 
 ## Requirements
 
@@ -13,7 +13,7 @@ The requirements needed to run this file are:
 Python 3.7 or newer (not recommended to use before 3.7)
 PyQt5
 
---
+---
 
 ## Contributing
 
