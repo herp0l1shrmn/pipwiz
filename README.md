@@ -14,51 +14,14 @@ Built with PyQt5. No command-line knowledge required!
 - Automatic detection if a package is already installed
 - Beautiful banner and app icon
 - One-file, easy to use and distribute
+- PyPI integration for searching
 
 ---
 
 ## Installation
 
-pip install pipwiz
-
----
-
-## Usage
-
-Just run:
-
-pipwiz
-
-Or, if you installed from source:
-
-python -m pipwiz.main
-
----
-
-## How It Works
-
-1. **Welcome:**  
-   Start the wizard and get a friendly introduction.
-
-2. **Package Selection:**  
-   Enter the name of the package you want to manage.
-
-3. **Status & Actions:**  
-   - If the package is **not installed**: Install it with one click.
-   - If the package is **already installed**: Upgrade, Uninstall, or leave as is.
-   - For pipwiz itself, a special confirmation is shown before uninstall.
-
-4. **Real-Time Output:**  
-   See pip’s output in real time, including errors and success messages.
-
----
-
-## Uninstalling pipwiz
-
-If you try to uninstall pipwiz using the wizard, you’ll get a confirmation dialog to prevent accidental removal.  
-You can always reinstall it with:
-
-pip install pipwiz
+Install the .py file then run it in Python, incase you don't have Python, click on the link below.
+[Python](https://www.python.org/downloads/)
 
 ---
 
