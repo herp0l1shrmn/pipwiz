@@ -20,8 +20,8 @@ Built with PyQt5. No command-line knowledge required!
 
 ## Installation
 
-Install the .py file then run it in Python, incase you don't have Python, click on the link below.
-[Python](https://www.python.org/downloads/)
+Install the .py file then run it in Python, incase you don't have Python, click on 
+[Python](https://www.python.org/downloads/) to open a link to the downloads.
 
 ---
 
